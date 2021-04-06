@@ -11,7 +11,7 @@
         
     <section>
         <div class="container">
-            <h2>About Me:</h2>   
+            <h2>About Me</h2>   
             
             <!-- Load text -->
             <h2>
